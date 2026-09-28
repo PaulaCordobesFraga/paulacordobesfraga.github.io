@@ -1,9 +1,11 @@
-# Retail Lab — caso demostrativo
+# Retail Lab — caso práctico de comercio
 
 [Panel interactivo](https://victorcabaleirovalado.github.io/paulacordobesfraga.github.io/retail-lab/) · [Caso y método](caso.md) · [CSV](ventas-simuladas.csv)
 
-Caso de comercio y retail con 1.500 pedidos simulados, análisis de ventas, descuentos y devoluciones, propuesta de experiencia de cliente y plan de 90 días. Preparado con asistencia de IA para estudio y adaptación; no representa experiencia laboral ni resultados reales de Paula.
+1.500 pedidos simulados, análisis de ventas, descuentos y devoluciones, propuesta de experiencia de cliente y plan comercial de 90 días.
 
-Ejecutar `python3 generate.py` reproduce los datos. El panel estático se sirve con GitHub Pages y carga el snapshot JSON adyacente. Mantener el HTML y su snapshot juntos. El código de contenido se incluye en `DashboardContent.jsx` y `retail.css`; el panel publicado ya está compilado.
+Ejecutar `python3 generate.py` reproduce el CSV y el snapshot. El HTML compilado y su snapshot JSON deben permanecer juntos para funcionar en GitHub Pages. `DashboardContent.jsx` y `retail.css` contienen el contenido del panel, compilado con el componente Data.
 
-Antes de presentarlo como trabajo propio: reproducir los cálculos, revisar los supuestos, documentar decisiones y distinguir la aportación personal de la asistencia de IA.
+## Excel y formación aplicada
+
+[Descargar Excel](Retail-Lab-Excel.xlsx): resumen comercial, tabla de pedidos con fórmulas y simulador de promoción. Aplicación de Excel y de las áreas Retail & Customer Experience, relacionadas con la formación de Santander Open Academy e Inside LVMH. Caso independiente, sin afiliación ni evaluación por estas entidades.
