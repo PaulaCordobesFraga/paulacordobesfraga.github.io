@@ -1,27 +1,33 @@
-# Paula Cordobés Fraga — Portfolio
+# Paula Cordobes Fraga — Portfolio
 
-Professional portfolio covering commerce, branding, retail, customer experience, certifications and education.
+**Comercio · Retail · Branding · Interés en marketing digital**
 
-**Live website:** https://victorcabaleirovalado.github.io/paulacordobesfraga.github.io/
+### [Visitar el portfolio ↗](https://paulacordobesfraga.github.io/)
 
-## Development
+Formación, certificaciones, competencias y un proyecto práctico de análisis comercial en Excel.
 
-Static HTML and CSS. No package installation or build step is required.
+[LinkedIn](https://www.linkedin.com/in/paula-cordob%C3%A9s-fraga-508a6a265/) · [Perfil de GitHub](https://github.com/PaulaCordobesFraga)
 
-To preview locally, run the following command from the repository directory with Python 3 installed:
+---
 
-```sh
-python3 -m http.server 8000
-```
+## Proyecto destacado
 
-Then open http://localhost:8000.
+### Retail Lab — Ventas & Customer Experience
 
-Edit `index.html` for content and `style.css` for presentation. GitHub Pages serves the repository root from `main`. Preserve `.nojekyll` when updating the site.
+Caso práctico con **1.500 pedidos simulados**, cuatro hojas de Excel, siete gráficos y cinco tablas con filtros. Conecta ventas, descuentos y devoluciones con un simulador del volumen necesario para mantener la contribución de una promoción.
 
-The supplied professional portrait is displayed in its original 659 × 889 resolution, without additional compression or cropping.
+[![Resumen de Retail Lab en Excel](retail-excel-preview.png)](retail-lab/Retail-Lab-Excel.xlsx)
 
-## Temporary hosting
+[Descargar Excel](https://paulacordobesfraga.github.io/retail-lab/Retail-Lab-Excel.xlsx) · [Repositorio del proyecto](https://github.com/PaulaCordobesFraga/Retail-Lab-Excel)
 
-This repository is temporarily hosted under VictorCabaleiroValado pending transfer to Paula’s GitHub account. The portfolio represents Paula, not the hosting account owner.
+Los datos son simulados. La contribución es parcial; el simulador calcula un umbral contable, no una previsión de demanda ni el impacto real de una campaña.
 
-After transfer, review the GitHub Pages settings and update the live website link above. For a user-site address in the format `<username>.github.io`, the repository must be named exactly `<username>.github.io`, matching Paula’s actual GitHub username.
+## Contenido y mantenimiento
+
+- `index.html`: contenido del portfolio.
+- `style.css`: diseño y adaptación a móvil.
+- `paula-cordobes-fraga.jpeg`: retrato proporcionado, sin recompresión.
+- `retail-lab/Retail-Lab-Excel.xlsx`: libro de Excel descargable.
+- `retail-excel-preview.png`: vista previa del proyecto.
+
+Sitio estático publicado con GitHub Pages desde la rama `main`, carpeta raíz. La dirección corresponde a la cuenta **PaulaCordobesFraga**.
