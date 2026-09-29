@@ -1,6 +1,6 @@
 # Retail Lab — caso práctico de comercio
 
-[Panel interactivo](https://victorcabaleirovalado.github.io/paulacordobesfraga.github.io/retail-lab/) · [Caso y método](caso.md) · [CSV](ventas-simuladas.csv)
+[Panel interactivo](https://paulacordobesfraga.github.io/retail-lab/) · [Caso y método](caso.md) · [CSV](ventas-simuladas.csv)
 
 1.500 pedidos simulados, análisis de ventas, descuentos y devoluciones, propuesta de experiencia de cliente y plan comercial de 90 días.
 
