@@ -1,6 +1,6 @@
 # Paula Cordobes Fraga — Portfolio
 
-**Comercio · Retail · Branding · Interés en marketing digital**
+**Comercio · Retail · Branding · Marketing digital**
 
 ### [Visitar el portfolio ↗](https://paulacordobesfraga.github.io/)
 
