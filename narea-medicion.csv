@@ -1,0 +1,7 @@
+﻿Métrica,Definición,Unidad,Umbral de planificación,Interpretación
+Sesiones atribuidas,Sesiones etiquetadas por campaña,sesiones,600,Alcance cualificado de landing
+Solicitudes de guía,Registros válidos completados,registros,75,Objetivo hipotético
+Tasa de registro,Solicitudes válidas / sesiones * 100,porcentaje,12.5,Derivado de 75 / 600
+Coste por solicitud,Gasto total / solicitudes,EUR,4,Derivado de 300 / 75
+Clic de email,Destinatarios con clic único / emails entregados * 100,porcentaje,Sin referencia previa,Establecer base en piloto
+Registro en lista,Registros en lista / receptores de guía * 100,porcentaje,Sin referencia previa,Analizar intención sin equipararla a venta

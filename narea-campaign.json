@@ -1,0 +1,262 @@
+{
+  "strategy": {
+    "brand": "NAREA",
+    "category": "Marca ficticia de moda urbana femenina",
+    "promise": "Prendas que se entienden entre sí.",
+    "position": "Versatilidad cotidiana, estética cuidada y decisiones de compra con intención. No se atribuyen materiales, precios ni ventajas ambientales sin evidencia.",
+    "audience": "Hipótesis de público: personas adultas interesadas en moda femenina que buscan simplificar combinaciones para trabajo, estudio y ocio urbano. Madrid es el contexto creativo; no constituye un segmento validado.",
+    "persona": {
+      "nombre": "Clara (persona hipotética)",
+      "situacion": "Alterna oficina o estudio, desplazamientos y planes sociales.",
+      "necesidad": "Combinar mejor sin dedicar mucho tiempo cada mañana.",
+      "barrera": "Desconfía de los básicos genéricos y de las promesas vagas.",
+      "motivacion": "Ejemplos de looks aplicables y una checklist útil.",
+      "validacion": "Entrevistar a 5-8 personas y revisar lenguaje, hábitos y objeciones antes de lanzar."
+    },
+    "objective": "Durante un piloto hipotético de cuatro semanas, obtener 75 solicitudes de guía a partir de 600 sesiones atribuidas. Son umbrales de planificación, no resultados ni benchmarks del sector.",
+    "offer": "Guía de armario cápsula: checklist + cinco fórmulas para combinar prendas existentes.",
+    "journey": [
+      [
+        "Descubrir",
+        "Carrusel / Reel / artículo",
+        "Guardar o visitar contenido",
+        "Sesiones atribuidas"
+      ],
+      [
+        "Considerar",
+        "Ejemplos + guía",
+        "Solicitar guía",
+        "Tasa de registro"
+      ],
+      [
+        "Relacionarse",
+        "Secuencia de tres emails",
+        "Leer y aplicar",
+        "Clic único por entregado"
+      ],
+      [
+        "Decidir",
+        "Lista de lanzamiento",
+        "Expresar interés",
+        "Registros en lista"
+      ]
+    ],
+    "budget": [
+      [
+        "Producción creativa",
+        "180 €",
+        "12 contenidos, edición y copy: asignación de ejercicio."
+      ],
+      [
+        "Distribución de pago",
+        "120 €",
+        "Solo después de validar landing, eventos y mensaje orgánico."
+      ],
+      [
+        "Total de planificación",
+        "300 €",
+        "No se ha contratado publicidad ni ejecutado gasto."
+      ]
+    ],
+    "sources": [
+      [
+        "HubSpot: metodología inbound",
+        "https://www.hubspot.com/inbound-marketing"
+      ],
+      [
+        "HubSpot Academy: recorrido del comprador",
+        "https://academy.hubspot.com/lessons/buyers-journey"
+      ],
+      [
+        "HubSpot: investigación de buyer personas",
+        "https://blog.hubspot.com/marketing/buyer-persona-research"
+      ],
+      [
+        "Google Analytics: campañas con parámetros UTM",
+        "https://support.google.com/analytics/answer/10917952"
+      ]
+    ]
+  },
+  "calendar": [
+    {
+      "semana": 1,
+      "dia": "Lunes",
+      "canal": "Instagram",
+      "formato": "Carrusel",
+      "etapa": "Descubrimiento",
+      "titular": "Menos prendas. Más combinaciones.",
+      "copy": "¿Tu armario está lleno y aun así no sabes qué ponerte? Empieza por las prendas que sí usas: una camisa, un pantalón y una capa exterior. Esta semana te enseñamos cómo convertir esa base en más looks. Guarda este carrusel para tu próxima revisión de armario.",
+      "cta": "Guardar",
+      "pieza": "armario_base"
+    },
+    {
+      "semana": 1,
+      "dia": "Miércoles",
+      "canal": "Instagram",
+      "formato": "Reel",
+      "etapa": "Descubrimiento",
+      "titular": "Un pantalón, tres planes.",
+      "copy": "Trabajo, café y cena. Un pantalón de corte recto puede acompañarte en los tres si cambias la capa exterior y los accesorios. ¿Qué combinación llevarías hoy? Cuéntanos tu elección.",
+      "cta": "Comentar",
+      "pieza": "tres_planes"
+    },
+    {
+      "semana": 1,
+      "dia": "Viernes",
+      "canal": "Blog + Pinterest",
+      "formato": "Artículo",
+      "etapa": "Descubrimiento",
+      "titular": "Cómo empezar un armario cápsula sin comprar más.",
+      "copy": "Antes de añadir una prenda, prueba a combinar lo que ya tienes. Nuestra guía empieza con una revisión sencilla del armario y una lista de básicos adaptada a tu rutina. Lee el artículo y prepara tu propia lista.",
+      "cta": "Leer artículo",
+      "pieza": "guia_capsula"
+    },
+    {
+      "semana": 2,
+      "dia": "Lunes",
+      "canal": "Instagram",
+      "formato": "Carrusel",
+      "etapa": "Consideración",
+      "titular": "Cinco preguntas antes de comprar.",
+      "copy": "¿Combina con tres prendas que ya tengo? ¿Me resulta cómoda? ¿La usaré en mi semana habitual? ¿Sé cómo cuidarla? ¿La compraría sin descuento? Desliza, guarda y vuelve a estas preguntas antes de tu próxima compra.",
+      "cta": "Guardar",
+      "pieza": "cinco_preguntas"
+    },
+    {
+      "semana": 2,
+      "dia": "Miércoles",
+      "canal": "Instagram",
+      "formato": "Reel",
+      "etapa": "Consideración",
+      "titular": "La misma camisa, dos ritmos.",
+      "copy": "Una camisa clara y dos maneras de llevarla: con pantalón fluido para el día, con una capa estructurada para la tarde. Elige la que encaje contigo. Descubre más combinaciones en nuestra guía.",
+      "cta": "Visitar guía",
+      "pieza": "misma_camisa"
+    },
+    {
+      "semana": 2,
+      "dia": "Viernes",
+      "canal": "Instagram",
+      "formato": "Stories",
+      "etapa": "Captación",
+      "titular": "Tu guía de armario cápsula.",
+      "copy": "Hemos reunido una checklist y cinco fórmulas de looks para ayudarte a aprovechar tu armario. Solicita la guía y recibe ideas para combinar tus prendas con intención.",
+      "cta": "Solicitar guía",
+      "pieza": "checklist"
+    },
+    {
+      "semana": 3,
+      "dia": "Lunes",
+      "canal": "Instagram",
+      "formato": "Carrusel",
+      "etapa": "Consideración",
+      "titular": "De la oficina al fin de semana.",
+      "copy": "Una base sencilla cambia con pequeños detalles. Te proponemos tres fórmulas: camisa + recto + americana; punto + fluido + bolso; camiseta + recto + camisa abierta. ¿Cuál se parece más a tu semana?",
+      "cta": "Guardar",
+      "pieza": "semana_real"
+    },
+    {
+      "semana": 3,
+      "dia": "Miércoles",
+      "canal": "Instagram",
+      "formato": "Reel",
+      "etapa": "Consideración",
+      "titular": "El detalle que cambia el look.",
+      "copy": "Prueba a cambiar una sola pieza: la capa exterior. Una americana define el conjunto; una camisa abierta lo hace más relajado. Mismo armario, otra sensación. Encuentra la checklist en el enlace de la bio.",
+      "cta": "Visitar guía",
+      "pieza": "capa_exterior"
+    },
+    {
+      "semana": 3,
+      "dia": "Viernes",
+      "canal": "Email",
+      "formato": "Contenido",
+      "etapa": "Nutrición",
+      "titular": "Tu rutina antes que las tendencias.",
+      "copy": "No todas necesitamos los mismos básicos. Revisa tus planes de la semana y elige tres prendas que puedas combinar entre sí. En el segundo email de la campaña encontrarás un ejercicio de cinco minutos para empezar.",
+      "cta": "Leer ejercicio",
+      "pieza": "rutina"
+    },
+    {
+      "semana": 4,
+      "dia": "Lunes",
+      "canal": "Instagram",
+      "formato": "Carrusel",
+      "etapa": "Decisión",
+      "titular": "Una primera selección pensada para combinar.",
+      "copy": "Estamos preparando la primera selección NAREA: siluetas sencillas y combinaciones para el día a día. Si quieres conocerla cuando esté lista, puedes apuntarte a la lista de lanzamiento.",
+      "cta": "Lista de lanzamiento",
+      "pieza": "primera_seleccion"
+    },
+    {
+      "semana": 4,
+      "dia": "Miércoles",
+      "canal": "Instagram",
+      "formato": "Stories",
+      "etapa": "Decisión",
+      "titular": "¿Qué prenda resuelve mejor tu semana?",
+      "copy": "Camisa clara o americana azul: ¿cuál eliges? Participa en la encuesta y consulta las fórmulas de looks de nuestra guía. Tus preferencias ayudarían a orientar una futura selección de contenidos.",
+      "cta": "Responder encuesta",
+      "pieza": "preferencias"
+    },
+    {
+      "semana": 4,
+      "dia": "Viernes",
+      "canal": "Email",
+      "formato": "Invitación",
+      "etapa": "Decisión",
+      "titular": "Conoce NAREA desde el principio.",
+      "copy": "Si te gusta la idea de un armario más fácil de combinar, forma parte de nuestra lista de lanzamiento. Te avisaríamos cuando hubiera una colección disponible y compartiríamos ideas para llevarla.",
+      "cta": "Lista de lanzamiento",
+      "pieza": "lanzamiento"
+    }
+  ],
+  "emails": [
+    {
+      "id": "01",
+      "subject": "Tu guía para empezar con lo que ya tienes",
+      "preheader": "Una checklist sencilla y cinco fórmulas de looks.",
+      "delay": "Inmediato tras solicitar la guía",
+      "stage": "Entrega",
+      "body": [
+        "Gracias por acercarte a NAREA. Aquí tienes tu guía de armario cápsula: una forma de revisar tus prendas, identificar lo que más usas y probar nuevas combinaciones.",
+        "Empieza por un paso pequeño: elige tres prendas que te acompañen en una semana habitual. La guía te ayuda a construir a partir de ellas."
+      ],
+      "cta": "Abrir mi guía",
+      "href": "../guia.html",
+      "goal": "Clic en la guía",
+      "exit": "Cancelar suscripción o retirar consentimiento"
+    },
+    {
+      "id": "02",
+      "subject": "Cinco minutos para descubrir nuevas combinaciones",
+      "preheader": "Tu rutina es el mejor punto de partida.",
+      "delay": "Dos días después de la entrega",
+      "stage": "Nutrición",
+      "body": [
+        "Piensa en tres planes de esta semana: trabajo o estudio, una tarde tranquila y una salida. ¿Qué prendas llevarías en los tres?",
+        "Prueba esta fórmula: una base neutra + una capa exterior + un detalle personal. Antes de comprar, haz una foto de dos combinaciones con lo que ya tienes.",
+        "En NAREA, diseñamos este ejercicio para poner la versatilidad en el centro de la conversación."
+      ],
+      "cta": "Ver las fórmulas de looks",
+      "href": "../guia.html#formulas",
+      "goal": "Clic en fórmulas",
+      "exit": "Cancelar suscripción o retirar consentimiento"
+    },
+    {
+      "id": "03",
+      "subject": "¿Te apuntas al comienzo de NAREA?",
+      "preheader": "Ideas de estilo y noticias de una futura selección.",
+      "delay": "Cinco días después de la entrega",
+      "stage": "Invitación",
+      "body": [
+        "Si la guía te ha servido para mirar tu armario de otra manera, puedes acompañarnos en el siguiente paso.",
+        "La lista de lanzamiento sería el lugar para conocer una futura selección NAREA y recibir ideas para combinarla. Sin cuenta atrás ni promesas de disponibilidad: primero, una propuesta que encaje en tu día a día."
+      ],
+      "cta": "Conocer la lista de lanzamiento",
+      "href": "../landing.html#registro",
+      "goal": "Clic e intención de registro",
+      "exit": "Registro en lista, cancelar suscripción o retirar consentimiento"
+    }
+  ]
+}
